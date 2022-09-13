@@ -13,3 +13,38 @@ Code for all projects is open source and freely available.
 
 I am a postdoctoral scholar at Stanford University in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/), led [Alison Marsden](https://profiles.stanford.edu/alison-marsden). One frequent collaborator is [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. In 2017, I completed my PhD in mathematics at the Courant Institute of Mathematical Sciences, New York University working with [Charles Peskin](https://www.math.nyu.edu/~peskin/), and my [thesis](https://arxiv.org/abs/2208.13317) concerned the mitral valve. Before grad school I worked at Lawrence Berkeley National Laboratory and spent a summer at NASA’s Jet Propulsion Laboratory.
 
+&nbsp;
+
+#### Selected Highlight Publications: 
+
+
+<p align="center">
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/kk4asNb6qD8" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</p>
+
+
+__Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
+
+
+<p align="center">
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/-KC4oPxEAw4" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</p>
+
+__Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[doi]](http://doi.org/10.1002/cnm.3240) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
+
+
+
+
+
+
+
