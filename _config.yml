@@ -32,5 +32,9 @@ exclude:
 include:
   - _pages
 # Other options
+header_pages:
+  - pubs.md 
+  - software.md
+  - links.md
 permalink: blog/:year/:month/:title
 
