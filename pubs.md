@@ -13,7 +13,7 @@ permalink: /pubs/
 
 #### Journal Publications
 
-* __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Validation of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._ (\* contributed equally) Submitted, 2021. [[arxiv]](https://arxiv.org/abs/2111.00720) [[doi]](https://doi.org/10.1007/s10439-023-03266-2)
+* __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Validation of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._  Annals of Biomedical Engineering, 2023. (\* contributed equally) [[arxiv]](https://arxiv.org/abs/2111.00720) [[doi]](https://doi.org/10.1007/s10439-023-03266-2)
 
 
 * Frishman S, Kight A, Pirozzi I, Maddineni S, Imbrie-Moore A, Karachiwalla Z, Paulsen MJ, __Kaiser AD__, Woo YJ, Cutkosky MR. _DynaRing: a Patient-Specific Mitral Annuloplasty Ring with Selective Stiffness Segments._ Journal of Medical Devices, 2022. [[doi]](https://doi.org/10.1115/1.4054445)
