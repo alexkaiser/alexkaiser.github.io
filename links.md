@@ -7,7 +7,7 @@ permalink: /links/
 
 * [CV](/kaiser_cv.pdf)
 
-* [Sanford Profile](https://profiles.stanford.edu/alexander-kaiser)
+* [Stanford Profile](https://profiles.stanford.edu/alexander-kaiser)
 
 * [Google Scholar Profile](https://scholar.google.com/citations?user=E30qvtkAAAAJ&hl=en)
 
