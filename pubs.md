@@ -11,7 +11,9 @@ permalink: /pubs/
 * __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[doi]](http://doi.org/10.1002/cnm.3240) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
 
 
-#### Publications 
+#### Journal Publications
+
+* __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Validation of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._ (\* contributed equally) Submitted, 2021. [[arxiv]](https://arxiv.org/abs/2111.00720) [[doi]](https://doi.org/10.1007/s10439-023-03266-2)
 
 
 * Frishman S, Kight A, Pirozzi I, Maddineni S, Imbrie-Moore A, Karachiwalla Z, Paulsen MJ, __Kaiser AD__, Woo YJ, Cutkosky MR. _DynaRing: a Patient-Specific Mitral Annuloplasty Ring with Selective Stiffness Segments._ Journal of Medical Devices, 2022. [[doi]](https://doi.org/10.1115/1.4054445)
@@ -24,14 +26,14 @@ permalink: /pubs/
 
 * Bailey DH, Borwein JM, __Kaiser AD__. _Automated Simplification of Large Symbolic Expressions._ Journal of Symbolic Computation, 2014. [[doi]](https://doi.org/10.1016/j.jsc.2013.09.001)
 
+
+
+#### Conference Publications (peer reviewed)
+
 * __Kaiser AD__, Williams S, Madduri K, Ibrahim K, Bailey DH, Demmel JW, Strohmaier E. _A Principled Kernel Testbed for Hardware/Software Co-Design Research._ Proceedings of USENIX Workshop on Hot Topics in Parallelism, 2010. [[pdf]](https://static.usenix.org/event/hotpar10/tech/full_papers/Kaiser.pdf)
 
 * __Kaiser AD__, Dolinar S, Cheng MK, _Undetected Errors in Quasi-cyclic LDPC Codes Caused by Receiver Symbol Slips._ Proceedings of IEEE Global Conference on Communications, 2009. [[doi]](https://doi.org/10.1109/GLOCOM.2009.5425765)
 
-
-#### Submitted for Review 
-
-* __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Validation of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._ (\* contributed equally) Submitted, 2021. [[arxiv]](https://arxiv.org/abs/2111.00720)
 
 
 #### Preprints
