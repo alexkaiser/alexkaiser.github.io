@@ -36,6 +36,12 @@ permalink: /pubs/
 
 
 
+#### Submitted for Review 
+
+* __Kaiser AD__, , Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ 2023. [[arxiv]](https://arxiv.org/abs/2309.14239)
+
+
+
 #### Preprints
 
 * Bao Y, __Kaiser AD__, Kaye J, Peskin CS. _Gaussian-Like Immersed Boundary Kernels with Three Continuous Derivatives and Improved Translational Invariance._ Preprint, 2017. [[arxiv]](https://arxiv.org/abs/1505.07529v4)
