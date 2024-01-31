@@ -5,7 +5,7 @@
 layout: page
 ---
 
-I am an applied mathematician and computational scientist whose research focuses on modeling the mechanics and fluid dynamics of the heart and its valves. I create new modeling methods and use them to study heart disease.
+I am an applied mathematician and computational scientist whose research focuses on modeling the mechanics and fluid dynamics of the heart and its valves. I create new modeling methods and use them to study heart disease. One primary application is simulation-guided design for cardiac surgery. 
 
 I am a Reasearch Engineer at Stanford University in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/), led [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I collaborator with  [Michael Ma](https://med.stanford.edu/content/sm/cve.html.html) and [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. 
 
@@ -16,6 +16,19 @@ One of my favorite techniques is design-based elasticity. We require that the mo
 &nbsp;
 
 #### Selected Highlight Publications with Movies: 
+
+
+<p align="center">
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/oXjskCORbaA?si=FSB7sY_vcZp1kE1I" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen></iframe>
+</p>
+
+__Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery (accepted, in press) 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+
 
 
 <p align="center">

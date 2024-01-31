@@ -6,6 +6,8 @@ permalink: /pubs/
 
 #### Selected Highlight Publications 
 
+* __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery (accepted, in press) 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+
 * __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
 
 * __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[doi]](http://doi.org/10.1002/cnm.3240) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
@@ -36,9 +38,9 @@ permalink: /pubs/
 
 
 
-#### Submitted for Review 
 
-* __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ 2023. [[arxiv]](https://arxiv.org/abs/2309.14239)
+
+
 
 
 
@@ -47,6 +49,14 @@ permalink: /pubs/
 * Bao Y, __Kaiser AD__, Kaye J, Peskin CS. _Gaussian-Like Immersed Boundary Kernels with Three Continuous Derivatives and Improved Translational Invariance._ Preprint, 2017. [[arxiv]](https://arxiv.org/abs/1505.07529v4)
 
 #### Conference Abstracts
+
+* Choi P, Sharir A, Shibata M, __Kaiser AD__, Zhu Y, Marsden AL, Woo YJ, Ma M, Kim JB. 
+_Effect of Graft Sizing in Valve-sparing Aortic Root Replacement for Bicuspid Aortic Valve: The Goldilocks Ratio._ The American Association for Thoracic Surgery Aortic Symposium, 2024. [[pdf]](https://www.aats.org/resources/effect-of-graft-sizing-in-valv-7713)
+
+
+* Haidar M, Choi P, __Kaiser AD__, Sharir A, Kapula N, Shibata M, Marsden AL, Ma MR
+_A Novel Approach for Aortic Valve Bicuspidization: Integrating Computational and Ex-vivo Simulation Concepts of Free-edge Leaflet Length in a modified Schäfer's procedure._ The American Association for Thoracic Surgery 104$^{th}$ Annual Meeting}, 2024. [[pdf]](https://www.aats.org/resources/a-novel-approach-for-aortic-va-7040)
+
 
 * __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Fluid-Structure Interaction Simulations of Bicuspid Aortic Valve Disease._ Circulation 144 (Suppl_1), A13417, 2021. [[doi]](https://doi.org/10.1161/circ.144.suppl_1.13417)
 
