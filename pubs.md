@@ -55,7 +55,7 @@ _Effect of Graft Sizing in Valve-sparing Aortic Root Replacement for Bicuspid Ao
 
 
 * Haidar M, Choi P, __Kaiser AD__, Sharir A, Kapula N, Shibata M, Marsden AL, Ma MR.
-_A Novel Approach for Aortic Valve Bicuspidization: Integrating Computational and Ex-vivo Simulation Concepts of Free-edge Leaflet Length in a modified Schäfer's procedure._ The American Association for Thoracic Surgery 104th Annual Meeting}, 2024. [[pdf]](https://www.aats.org/resources/a-novel-approach-for-aortic-va-7040)
+_A Novel Approach for Aortic Valve Bicuspidization: Integrating Computational and Ex-vivo Simulation Concepts of Free-edge Leaflet Length in a modified Schäfer's procedure._ The American Association for Thoracic Surgery 104th Annual Meeting, 2024. [[pdf]](https://www.aats.org/resources/a-novel-approach-for-aortic-va-7040)
 
 
 * __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Fluid-Structure Interaction Simulations of Bicuspid Aortic Valve Disease._ Circulation 144 (Suppl_1), A13417, 2021. [[doi]](https://doi.org/10.1161/circ.144.suppl_1.13417)
