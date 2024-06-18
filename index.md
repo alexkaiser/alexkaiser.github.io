@@ -7,7 +7,7 @@ layout: page
 
 I am an applied mathematician and computational scientist whose research focuses on modeling the mechanics and fluid dynamics of the heart and its valves. I create new modeling methods and use them to study heart disease. One primary application is simulation-guided design for cardiac surgery. 
 
-I am a Reasearch Engineer at Stanford University in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/), led [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I collaborator with  [Michael Ma](https://med.stanford.edu/content/sm/cve.html.html) and [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. 
+I am a Reasearch Engineer at Stanford University in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/), led [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I collaborate with  [Michael Ma](https://med.stanford.edu/content/sm/cve.html.html) and [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. 
 
 I completed my PhD in Mathematics in 2017 at the Courant Institute of Mathematical Sciences, New York University working with [Charles Peskin](https://www.math.nyu.edu/~peskin/). My [thesis](https://arxiv.org/abs/2208.13317) concerned the mitral valve. 
 
