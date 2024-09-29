@@ -7,7 +7,7 @@ layout: page
 
 I am an applied mathematician and computational scientist whose research focuses on modeling the mechanics and fluid dynamics of the heart and its valves. I create new modeling methods and use them to study heart disease. One primary application is simulation-guided design for cardiac surgery. 
 
-I am a Reasearch Engineer at Stanford University in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/), led [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I collaborate with  [Michael Ma](https://med.stanford.edu/content/sm/cve.html.html) and [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. 
+I am a Instructor at Stanford University in Cardiothoracic Surgery working with [Michael Ma](https://med.stanford.edu/content/sm/cve.html.html) and in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/) with [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I also collaborate with [William Hiesinger](https://med.stanford.edu/hiesingerlab.html), from the Dept. of Cardiothoracic Surgery. 
 
 I completed my PhD in Mathematics in 2017 at the Courant Institute of Mathematical Sciences, New York University working with [Charles Peskin](https://www.math.nyu.edu/~peskin/). My [thesis](https://arxiv.org/abs/2208.13317) concerned the mitral valve. 
 
@@ -27,7 +27,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 </p>
 
-__Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery (accepted, in press) 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+__Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
 
 
 
