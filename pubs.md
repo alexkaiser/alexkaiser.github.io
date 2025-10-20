@@ -15,6 +15,19 @@ permalink: /pubs/
 
 #### Journal Publications
 
+
+* __Kaiser AD__, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Guided Design of Leaflet Height in Bicuspidization of the Aortic Valve._ JTCVS Open, 2025. _(accepted, in press.)_
+[[doi]](https://doi.org/10.1016/j.xjon.2025.09.038)
+
+* __Kaiser AD__,  Wang J, Brown AL,  Zhu E, Hsiai T, Marsden AL. _A Fluid-Structure Interaction Model of the Zebrafish Aortic Valve. \emph{Journal of Biomechanics._ 2025. [[arxiv]](https://arxiv.org/abs/2412.18056) [[doi]](https://doi.org/10.1016/j.jbiomech.2025.112794)
+
+
+* Choi PS, Sharir A, Ono Y, Shibata M, __Kaiser AD__, Palagani Y, Marsden AL, Ma MR. _Combined Simulation and Ex-vivo Assessment of Free-edge Length in Bicuspidization Repair for Congenital Aortic Valve Disease._ JTCVS Open, 2024. [[doi]](https://doi.org/10.1016/j.xjon.2024.09.008)
+
+
+* Choi PS,  Sharir A,  Ono Y,  Shibata M, {\bf Kaiser AD},  Zhu Y, Marsden AL,  Woo YJ, Ma MR, Kim JB. _Effect of Graft Sizing in Valve-sparing Aortic Root Replacement for Bicuspid Aortic Valve: The Goldilocks Ratio._ The Journal of Thoracic and Cardiovascular Surgery Techniques, 2024. [[doi]](https://doi.org/10.1016/j.xjtc.2024.03.025)
+
+
 * __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Comparison of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._  Annals of Biomedical Engineering, 2023. (\* contributed equally) [[arxiv]](https://arxiv.org/abs/2111.00720) [[doi]](https://doi.org/10.1007/s10439-023-03266-2)
 
 
@@ -38,7 +51,9 @@ permalink: /pubs/
 
 
 
+#### Submitted for Review 
 
+* Choi PS\*, __Kaiser AD__ \*, Nilkant R, Sharir A, Marsden AL, Ma MR. From Model to Patient: Early Incorporation of Computationally-Derived Principles of Free-edge Length in Bicuspidization Repair. (\*contributed equally) Submitted. 2025
 
 
 
