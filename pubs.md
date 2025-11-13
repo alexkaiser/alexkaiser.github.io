@@ -19,7 +19,7 @@ permalink: /pubs/
 * __Kaiser AD__, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Guided Design of Leaflet Height in Bicuspidization of the Aortic Valve._ JTCVS Open, 2025. _(accepted, in press.)_
 [[doi]](https://doi.org/10.1016/j.xjon.2025.09.038)
 
-* __Kaiser AD__,  Wang J, Brown AL,  Zhu E, Hsiai T, Marsden AL. _A Fluid-Structure Interaction Model of the Zebrafish Aortic Valve. \emph{Journal of Biomechanics._ 2025. [[arxiv]](https://arxiv.org/abs/2412.18056) [[doi]](https://doi.org/10.1016/j.jbiomech.2025.112794)
+* __Kaiser AD__,  Wang J, Brown AL,  Zhu E, Hsiai T, Marsden AL. _A Fluid-Structure Interaction Model of the Zebrafish Aortic Valve._ Journal of Biomechanics, 2025. [[arxiv]](https://arxiv.org/abs/2412.18056) [[doi]](https://doi.org/10.1016/j.jbiomech.2025.112794)
 
 
 * Choi PS, Sharir A, Ono Y, Shibata M, __Kaiser AD__, Palagani Y, Marsden AL, Ma MR. _Combined Simulation and Ex-vivo Assessment of Free-edge Length in Bicuspidization Repair for Congenital Aortic Valve Disease._ JTCVS Open, 2024. [[doi]](https://doi.org/10.1016/j.xjon.2024.09.008)
