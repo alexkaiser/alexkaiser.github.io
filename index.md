@@ -12,13 +12,13 @@ I am an Instructor at Stanford University in Cardiothoracic Surgery working with
 I completed my PhD in Mathematics in 2017 at the Courant Institute of Mathematical Sciences, New York University working with [Charles Peskin](https://www.math.nyu.edu/~peskin/). My [thesis](https://arxiv.org/abs/2208.13317) concerned the mitral valve. 
 
 
-Much of my current work focuses on [[simulation-guided design for cardiac surgery]](https://doi.org/10.1016/j.jtcvs.2023.12.027).
+Much of my current work focuses on [simulation-guided design for cardiac surgery](https://doi.org/10.1016/j.jtcvs.2023.12.027).
 Congenital heart disease affects approximately one in every hundred births, making it the most common congenital disorder and often requires surgery.
 Surgical procedures in children, however, are frequently based on an empirical, retrospective, "guess and check" approach. 
 I create engineering design tools to optimize procedures and improve patient outcomes. 
 
 
-One of my favorite techniques is [[elasticity-based design]](http://doi.org/10.1002/cnm.3240). We require that the model valve supports a pressure, find an associated differential equation, then derive valve geometry and material properties from its solution. By altering parameters in these differential equations -- specifying just the right math problem -- we design the emergent model to match experimental data where the data is good, but produce features like material heterogeneity and a full map of fiber orientations that are very difficult to measure experimentally. These techniques illuminate facts and generate hypotheses about valve anatomy and mechanics, and they make highly effective models to use in fluid-structure interaction simulations for studies of flow and disease.
+One of my favorite techniques is [elasticity-based design](http://doi.org/10.1002/cnm.3240). We require that the model valve supports a pressure, find an associated differential equation, then derive valve geometry and material properties from its solution. By altering parameters in these differential equations -- specifying just the right math problem -- we design the emergent model to match experimental data where the data is good, but produce features like material heterogeneity and a full map of fiber orientations that are very difficult to measure experimentally. These techniques illuminate facts and generate hypotheses about valve anatomy and mechanics, and they make highly effective models to use in fluid-structure interaction simulations for studies of flow and disease.
 
 &nbsp;
 
