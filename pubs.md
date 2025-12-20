@@ -6,7 +6,7 @@ permalink: /pubs/
 
 #### Selected Highlight Publications 
 
-* __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery (accepted, in press) 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+* __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery, 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
 
 * __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
 
