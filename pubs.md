@@ -16,7 +16,7 @@ permalink: /pubs/
 #### Journal Publications
 
 
-* __Kaiser AD__, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Guided Design of Leaflet Height in Bicuspidization of the Aortic Valve._ JTCVS Open, 2025. _(accepted, in press.)_
+* __Kaiser AD__, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Guided Design of Leaflet Height in Bicuspidization of the Aortic Valve._ JTCVS Open, 2025. 
 [[doi]](https://doi.org/10.1016/j.xjon.2025.09.038)
 
 * __Kaiser AD__,  Wang J, Brown AL,  Zhu E, Hsiai T, Marsden AL. _A Fluid-Structure Interaction Model of the Zebrafish Aortic Valve._ Journal of Biomechanics, 2025. [[arxiv]](https://arxiv.org/abs/2412.18056) [[doi]](https://doi.org/10.1016/j.jbiomech.2025.112794)
