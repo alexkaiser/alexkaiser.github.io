@@ -20,7 +20,7 @@ _† denotes trainee mentored by ADK_
 
 
 {: reversed="" start="16"}
-1. Choi PS, __Kaiser AD__, Nilkant R, Sharir A, Siddiqi U, McMullen H, Marsden AL, Ma MR. _Simulation-Guided Outlet Valve Repair: Early Integration of Computationally-Derived Principles of Free-Edge Length in Bicuspidization Repair._ Frontiers in Cardiovascular Medicine, 2026. _(in press)_
+1. Choi PS, __Kaiser AD__, Nilkant R, Sharir A, Siddiqi U, McMullen H, Marsden AL, Ma MR. _Simulation-Guided Outlet Valve Repair: Early Integration of Computationally-Derived Principles of Free-Edge Length in Bicuspidization Repair._ Frontiers in Cardiovascular Medicine, 2026. [[doi]](https://doi.org/10.3389/fcvm.2026.1957668)
 
 1. Martinez ES†, __Kaiser AD__, Reed AK, Stocker SW, Sharir A, Choi PS, Maskatia SA, Ma MR, Marsden AL. _Semi-Automated Generation and Hemodynamic Assessment of Surgical Baffle Geometry for Biventricular Repair._ Annals of Biomedical Engineering, 2026. _(in press)_ [[arxiv]](https://arxiv.org/abs/2603.25207)
 

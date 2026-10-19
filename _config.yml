@@ -33,6 +33,7 @@ include:
   - _pages
 # Other options
 header_pages:
+  - research.md
   - pubs.md 
   - software.md
   - links.md
