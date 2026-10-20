@@ -29,13 +29,14 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - images/scratch_images
 include:
   - _pages
 # Other options
 header_pages:
   - research.md
+  - team.md
   - pubs.md 
   - software.md
-  - links.md
 permalink: blog/:year/:month/:title
 

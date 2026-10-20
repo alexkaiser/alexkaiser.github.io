@@ -24,6 +24,8 @@
             {%- endif -%}
           {%- endfor -%}
           <a class="page-link" href="{{ site.baseurl }}/kaiser_cv.pdf">CV</a>
+          {%- assign contact_page = site.pages | where: "path", "links.md" | first -%}
+          <a class="page-link" href="{{ contact_page.url | relative_url }}">{{ contact_page.title | escape }}</a>
         </div>
       </nav>
     {%- endif -%}
