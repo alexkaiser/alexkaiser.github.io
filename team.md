@@ -22,7 +22,7 @@ permalink: /team/
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/kaiser.jpg" alt="Alexander D. Kaiser"></div>
   <div class="team-text" markdown="1">
-__Alexander D. Kaiser__ I am an applied mathematician and computational scientist and Instructor in Cardiothoracic Surgery at Stanford. My research uses a computational approach to study congenital heart disease, modeling methods and surgical treatment.  
+__Alexander D. Kaiser__ is an applied mathematician and computational scientist and Instructor in Cardiothoracic Surgery at Stanford. His research develops computational modeling methods to study congenital heart disease and its surgical treatment.  
   </div>
 </div>
 
@@ -31,7 +31,7 @@ __Alexander D. Kaiser__ I am an applied mathematician and computational scientis
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/bornemann.jpg" alt="Karoline-Marie Bornemann"></div>
   <div class="team-text" markdown="1">
-__Karoline-Marie Bornemann__ is a postdoctoral scholar in Pediatrics (Cardiology). She earned her PhD at University of Bern, Switzerland in 2024. She studies fluid mechanics and pathophysiology of rare and severe congenital heart disease, currently focused on truncus arteriosus. 
+__Karoline-Marie Bornemann__ is a postdoctoral scholar in Pediatrics (Cardiology). She earned her PhD at the University of Bern, Switzerland, in 2024. She studies fluid mechanics and pathophysiology of rare and severe congenital heart disease, currently focused on truncus arteriosus. 
   </div>
 </div>
 
@@ -57,7 +57,7 @@ __Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computation
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/zhao.jpg" alt="Han Zhao"></div>
   <div class="team-text" markdown="1">
-__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford and recently moved to University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
+__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford and recently moved to the University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
   </div>
 </div>
 

@@ -41,7 +41,7 @@ Surgeons at Stanford now [perform repairs](https://doi.org/10.3389/fcvm.2026.195
 </p>
 
 
-I use modeling and simulation tools to study the pathophysiology of congenital heart disease. One recent [study](https://doi.org/10.1016/j.jtcvs.2026.04.039) led by postdoc Karoline Bornemann focused on truncus arteriosus, a rare and severe congenital heart disease. We found that, contrary to conventional wisdom, valve performance improved after repair without direct intervention to the leaflets, a trend that was confirmed on clinical imaging. 
+I use modeling and simulation tools to study the pathophysiology of congenital heart disease. One recent [study](https://doi.org/10.1016/j.jtcvs.2026.04.039) ([movie](https://youtu.be/po0WBD9wt0U)) led by postdoc [Karoline Bornemann](/team/) focused on truncus arteriosus, a rare and severe congenital heart disease. We found that, contrary to conventional wisdom, valve performance improved after repair without direct intervention to the leaflets, a trend that was confirmed on clinical imaging. 
 
 
 

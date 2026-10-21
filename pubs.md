@@ -47,7 +47,7 @@ _† denotes trainee mentored by ADK_
 
 1. __Kaiser AD__, Shad R, Hiesinger W, Marsden AL. _A Design-Based Model of the Aortic Valve for Fluid-Structure Interaction._ Biomechanics and Modeling in Mechanobiology, 2021. [[arxiv]](https://arxiv.org/abs/2010.02346) [[doi]](https://doi.org/10.1007/s10237-021-01516-7) [[movies]](https://www.youtube.com/watch?v=SJcHaGk16sc&list=PLVE1-rUYcsaIz6k1Rr6vJxsAeDRTptpLA)
 
-1. Shad R, __Kaiser AD__, Kong S, Fong R, Quach N, Bowles C, Kasinpila P, Shudo Y, Teuteberg J, Woo YJ, Marsden AL, Hiesinger W. _Patient-Specific Computational Fluid Dynamics Reveal Localized Flow Patterns Predictive of Post-Left Ventricular Assist Device Aortic Incompetence_ Circulation: Heart Failure, 2021. [[doi]](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.120.008034)
+1. Shad R, __Kaiser AD__, Kong S, Fong R, Quach N, Bowles C, Kasinpila P, Shudo Y, Teuteberg J, Woo YJ, Marsden AL, Hiesinger W. _Patient-Specific Computational Fluid Dynamics Reveal Localized Flow Patterns Predictive of Post-Left Ventricular Assist Device Aortic Incompetence._ Circulation: Heart Failure, 2021. [[doi]](https://doi.org/10.1161/CIRCHEARTFAILURE.120.008034)
 
 1. Kasinpila P, Kong S, Fong R, Shad R, __Kaiser AD__, Marsden AL, Woo YJ, Hiesinger W. _Use of Patient-Specific Computational Models for Optimization of Aortic Insufficiency after Implantation of Left Ventricular Assist Device._ The Journal of Thoracic and Cardiovascular Surgery, 2020. [[doi]](https://doi.org/10.1016/j.jtcvs.2020.04.164)
 
@@ -61,7 +61,7 @@ _† denotes trainee mentored by ADK_
 {: reversed="" start="2"}
 1. __Kaiser AD__, Williams S, Madduri K, Ibrahim K, Bailey DH, Demmel JW, Strohmaier E. _A Principled Kernel Testbed for Hardware/Software Co-Design Research._ Proceedings of USENIX Workshop on Hot Topics in Parallelism, 2010. [[pdf]](https://static.usenix.org/event/hotpar10/tech/full_papers/Kaiser.pdf)
 
-1. __Kaiser AD__, Dolinar S, Cheng MK, _Undetected Errors in Quasi-cyclic LDPC Codes Caused by Receiver Symbol Slips._ Proceedings of IEEE Global Conference on Communications, 2009. [[doi]](https://doi.org/10.1109/GLOCOM.2009.5425765)
+1. __Kaiser AD__, Dolinar S, Cheng MK. _Undetected Errors in Quasi-cyclic LDPC Codes Caused by Receiver Symbol Slips._ Proceedings of IEEE Global Conference on Communications, 2009. [[doi]](https://doi.org/10.1109/GLOCOM.2009.5425765)
 
 
 
@@ -98,12 +98,12 @@ _† denotes trainee mentored by ADK_
 
 1. Choi PS, Tarun S, Sharir A, Huber JA, Shibata M, Bornemann KM†, __Kaiser AD__, Marsden AL, Ma MR. _Ex-vivo Assessment of Pulmonic Valve Mono-, Bi-, and Trileaflet Replacement using Autologous Pulmonary Arterial Wall._ KTCVS-STS Asia Symposium on Valvular Heart Disease, 26th Meeting, 2025. [[program]](https://valveforum.org/register/2025_01/program/sub02_2.html)
 
-1. Choi P, Sharir A, Shibata M, __Kaiser AD__, Zhu Y, Marsden AL, Woo YJ, Ma M, Kim JB. 
-_Effect of Graft Sizing in Valve-sparing Aortic Root Replacement for Bicuspid Aortic Valve: The Goldilocks Ratio._ The American Association for Thoracic Surgery Aortic Symposium, 2024. [[pdf]](https://www.aats.org/resources/effect-of-graft-sizing-in-valv-7713)
+1. Choi PS, Sharir A, Shibata M, __Kaiser AD__, Zhu Y, Marsden AL, Woo YJ, Ma MR, Kim JB. 
+_Effect of Graft Sizing in Valve-sparing Aortic Root Replacement for Bicuspid Aortic Valve: The Goldilocks Ratio._ The American Association for Thoracic Surgery Aortic Symposium, 2024. [[abstract]](https://www.aats.org/resources/effect-of-graft-sizing-in-valv-7713)
 
 
-1. Haidar MA, Choi P, __Kaiser AD__, Sharir A, Kapula N, Shibata M, Marsden AL, Ma MR.
-_A Novel Approach for Aortic Valve Bicuspidization: Integrating Computational and Ex-vivo Simulation Concepts of Free-edge Leaflet Length in a modified Schäfer's procedure._ The American Association for Thoracic Surgery 104th Annual Meeting, 2024. [[pdf]](https://www.aats.org/resources/a-novel-approach-for-aortic-va-7040)
+1. Haidar MA, Choi PS, __Kaiser AD__, Sharir A, Kapula N, Shibata M, Marsden AL, Ma MR.
+_A Novel Approach for Aortic Valve Bicuspidization: Integrating Computational and Ex-vivo Simulation Concepts of Free-edge Leaflet Length in a modified Schäfer's procedure._ The American Association for Thoracic Surgery 104th Annual Meeting, 2024. [[abstract]](https://www.aats.org/resources/a-novel-approach-for-aortic-va-7040)
 
 
 1. __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Fluid-Structure Interaction Simulations of Bicuspid Aortic Valve Disease._ Circulation 144 (Suppl_1), A13417, 2021. [[doi]](https://doi.org/10.1161/circ.144.suppl_1.13417)
