@@ -38,5 +38,7 @@ header_pages:
   - team.md
   - pubs.md 
   - software.md
+  - cv.md
+  - links.md
 permalink: blog/:year/:month/:title
 

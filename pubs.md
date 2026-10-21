@@ -9,11 +9,11 @@ permalink: /pubs/
 _† denotes trainee mentored by ADK_
 
 {: reversed="" start="19"}
-1. Bornemann KM†, Choi PS, Huber JA, Reed AK, Sharir A, Maskatia SA, Marsden AL, Ma MR, __Kaiser AD__. _Simulations Predict Improved Valve Performance Without Direct Leaflet Intervention After Neonatal Truncus Arteriosus Repair._ The Journal of Thoracic and Cardiovascular Surgery, 2026. [[arxiv]](https://arxiv.org/abs/2601.08932) [[doi]](https://doi.org/10.1016/j.jtcvs.2026.04.039)
+1. Bornemann KM†, Choi PS, Huber JA, Reed AK, Sharir A, Maskatia SA, Marsden AL, Ma MR, __Kaiser AD__. _Simulations Predict Improved Valve Performance Without Direct Leaflet Intervention After Neonatal Truncus Arteriosus Repair._ The Journal of Thoracic and Cardiovascular Surgery, 2026. [[arxiv]](https://arxiv.org/abs/2601.08932) [[doi]](https://doi.org/10.1016/j.jtcvs.2026.04.039) [[movies]](https://youtu.be/po0WBD9wt0U)
 
 1. __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery, 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
 
-1. __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[doi]](http://doi.org/10.1002/cnm.3240) [[arxiv]](https://arxiv.org/abs/1902.00018) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
+1. __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](http://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
 
 
 #### Additional Journal Publications
@@ -41,11 +41,11 @@ _† denotes trainee mentored by ADK_
 1. __Kaiser AD__\*, Schiavone NK\*, Elkins CJ, McElhinney DB, Eaton JK, Marsden AL. _Comparison of Immersed Boundary Simulations of Heart Valve Hemodynamics against In Vitro 4D Flow MRI Data._  Annals of Biomedical Engineering, 2023. (\* contributed equally) [[arxiv]](https://arxiv.org/abs/2111.00720) [[doi]](https://doi.org/10.1007/s10439-023-03266-2)
 
 
-1. __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
+1. __Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[arxiv]](https://arxiv.org/abs/2109.08261) [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
 
 1. Frishman S, Kight A, Pirozzi I, Maddineni S, Imbrie-Moore A, Karachiwalla Z, Paulsen MJ, __Kaiser AD__, Woo YJ, Cutkosky MR. _DynaRing: a Patient-Specific Mitral Annuloplasty Ring with Selective Stiffness Segments._ Journal of Medical Devices, 2022. [[doi]](https://doi.org/10.1115/1.4054445)
 
-1. __Kaiser AD__, Shad R, Hiesinger W, Marsden AL. _A Design-Based Model of the Aortic Valve for Fluid-Structure Interaction._ Biomechanics and Modeling in Mechanobiology, 2021. [[doi]](https://doi.org/10.1007/s10237-021-01516-7) [[arxiv]](https://arxiv.org/abs/2010.02346) [[movies]](https://www.youtube.com/watch?v=SJcHaGk16sc&list=PLVE1-rUYcsaIz6k1Rr6vJxsAeDRTptpLA)
+1. __Kaiser AD__, Shad R, Hiesinger W, Marsden AL. _A Design-Based Model of the Aortic Valve for Fluid-Structure Interaction._ Biomechanics and Modeling in Mechanobiology, 2021. [[arxiv]](https://arxiv.org/abs/2010.02346) [[doi]](https://doi.org/10.1007/s10237-021-01516-7) [[movies]](https://www.youtube.com/watch?v=SJcHaGk16sc&list=PLVE1-rUYcsaIz6k1Rr6vJxsAeDRTptpLA)
 
 1. Shad R, __Kaiser AD__, Kong S, Fong R, Quach N, Bowles C, Kasinpila P, Shudo Y, Teuteberg J, Woo YJ, Marsden AL, Hiesinger W. _Patient-Specific Computational Fluid Dynamics Reveal Localized Flow Patterns Predictive of Post-Left Ventricular Assist Device Aortic Incompetence_ Circulation: Heart Failure, 2021. [[doi]](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.120.008034)
 

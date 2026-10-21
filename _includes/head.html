@@ -11,6 +11,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
   {% endif %}
+  <style>
+    /* Shrink embedded videos to fit narrow screens, keeping 16:9 */
+    .post-content iframe { max-width: 100%; height: auto; aspect-ratio: 16 / 9; }
+  </style>
   <link rel="shortcut icon" type="image/png" href="/images/anatomical-heart_1fac0.png">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">

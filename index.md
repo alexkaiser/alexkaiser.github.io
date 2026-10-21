@@ -5,6 +5,11 @@
 layout: page
 ---
 
+<!-- The home page has no title; hide its empty heading to tighten the gap below the menu. -->
+<style>
+  .post-header { display: none; }
+</style>
+
 I am an applied mathematician and computational scientist whose research focuses on  cardiovascular engineering for rare and severe congenital heart disease (CHD). My work lies at the interface of engineering, applied mathematics and medicine, with an emphasis on modeling and simulation of how heart valves interact with blood flow. 
 
 My [research](/research/) topics include modeling methods, simulation-guided design for cardiac surgery, and pathophysiology of congenital heart disease. 
@@ -19,40 +24,39 @@ I am an Instructor at Stanford University in Cardiothoracic Surgery. I lead a re
 
 <p align="center">
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/oXjskCORbaA?si=FSB7sY_vcZp1kE1I" 
+src="https://www.youtube-nocookie.com/embed/po0WBD9wt0U" 
 title="YouTube video player" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 allowfullscreen></iframe>
 </p>
 
-__Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+Bornemann KM†, Choi PS, Huber JA, Reed AK, Sharir A, Maskatia SA, Marsden AL, Ma MR, __Kaiser AD__. _Simulations Predict Improved Valve Performance Without Direct Leaflet Intervention After Neonatal Truncus Arteriosus Repair._ The Journal of Thoracic and Cardiovascular Surgery, 2026. [[arxiv]](https://arxiv.org/abs/2601.08932) [[doi]](https://doi.org/10.1016/j.jtcvs.2026.04.039) [[movies]](https://youtu.be/po0WBD9wt0U)
 
 
 
 <p align="center">
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/kk4asNb6qD8" 
+src="https://www.youtube-nocookie.com/embed/oXjskCORbaA" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen></iframe>
+</p>
+
+__Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery, 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
+
+
+<p align="center">
+<iframe width="560" height="315" 
+src="https://www.youtube-nocookie.com/embed/-KC4oPxEAw4" 
 title="YouTube video player" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </p>
 
-
-__Kaiser AD__, Shad R, Schiavone N, Hiesinger W, Marsden AL. _Controlled Comparison of Simulated Hemodynamics across Tricuspid and Bicuspid Aortic Valves._ Annals of Biomedical Engineering, 2022. [[doi]](https://doi.org/10.1007/s10439-022-02983-4) [[arxiv]](https://arxiv.org/abs/2109.08261) [[movies]](https://www.youtube.com/watch?v=SQrFoCUKOk0&list=PLVE1-rUYcsaJYmYqGy7Y5xFfdontjI1Xq)
-
-
-<p align="center">
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/-KC4oPxEAw4" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</p>
-
-__Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[doi]](http://doi.org/10.1002/cnm.3240) [[arxiv]](https://arxiv.org/abs/1902.00018) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
+__Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](http://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
 
 
 
