@@ -10,9 +10,9 @@ layout: page
   .post-header { display: none; }
 </style>
 
-I am an applied mathematician and computational scientist whose research focuses on  cardiovascular engineering for rare and severe congenital heart disease (CHD). My work lies at the interface of engineering, applied mathematics and medicine, with an emphasis on modeling and simulation of how heart valves interact with blood flow. 
+I am an applied mathematician and computational scientist whose research focuses on  cardiovascular engineering for rare and severe congenital heart disease. My work lies at the interface of engineering, applied mathematics and medicine, with an emphasis on modeling and simulation of how heart valves interact with blood flow. 
 
-My [research](/research/) topics include modeling methods, simulation-guided design for cardiac surgery, and pathophysiology of congenital heart disease. 
+My [research](/research/) topics include modeling methods, simulation-guided design for cardiac surgery, and pathophysiology. 
 
 I am an Instructor at Stanford University in Cardiothoracic Surgery. I lead a research [team](/team/) of postdocs and students. I work with [Michael Ma](https://med.stanford.edu/content/sm/cve.html) and in the [Cardiovascular Biomechanics Computation Laboratory](https://cbcl.stanford.edu/) with [Alison Marsden](https://profiles.stanford.edu/alison-marsden). I completed my PhD in Mathematics in 2017 at the Courant Institute of Mathematical Sciences, New York University working with [Charles Peskin](https://www.math.nyu.edu/~peskin/). My [thesis](https://arxiv.org/abs/2208.13317) concerned the mitral valve. 
 
