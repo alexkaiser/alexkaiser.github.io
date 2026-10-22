@@ -22,7 +22,7 @@ permalink: /team/
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/kaiser.jpg" alt="Alexander D. Kaiser"></div>
   <div class="team-text" markdown="1">
-__Alexander D. Kaiser__ is an applied mathematician and computational scientist and Instructor in Cardiothoracic Surgery at Stanford. His research develops computational modeling methods to study congenital heart disease and its surgical treatment.  
+__Alexander D. Kaiser__ is an applied mathematician and computational scientist and Instructor in Cardiothoracic Surgery at Stanford. He leads a research team supported by his NIH K25 and American Heart Association awards. His research develops computational modeling methods to study congenital heart disease and its surgical treatment.  
   </div>
 </div>
 
@@ -40,7 +40,7 @@ __Karoline-Marie Bornemann__ is a postdoctoral scholar in Pediatrics (Cardiology
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/shantz.jpg" alt="Camille Shantz"></div>
   <div class="team-text" markdown="1">
-__Camille Shantz__ is an MD student at Boston University on a research year at Stanford. She researches valve performance in supravalvular aortic stenosis and its surgical repairs. 
+__Camille Shantz__ is an MD student at Boston University on a research year at Stanford as a Sarnoff Cardiovascular Research Foundation Fellow. She researches valve performance in supravalvular aortic stenosis and its surgical repairs. 
   </div>
 </div>
 
@@ -49,7 +49,7 @@ __Camille Shantz__ is an MD student at Boston University on a research year at S
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/martinez.jpg" alt="Elena Sabdy Martinez"></div>
   <div class="team-text" markdown="1">
-__Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computational & Mathematical Engineering co-mentored with A. Marsden. She researches surgical planning for complex biventricular repair in patients with double outlet right ventricle. 
+__Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computational & Mathematical Engineering, co-mentored with Alison Marsden. She researches surgical planning for complex biventricular repair in patients with double outlet right ventricle. 
   </div>
 </div>
 
@@ -57,7 +57,7 @@ __Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computation
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/zhao.jpg" alt="Han Zhao"></div>
   <div class="team-text" markdown="1">
-__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford co-mentored with A. Marsden and recently moved to the University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
+__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford, co-mentored with Alison Marsden, and recently moved to the University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
   </div>
 </div>
 
