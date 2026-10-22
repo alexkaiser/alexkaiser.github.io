@@ -8,7 +8,7 @@ permalink: /software/
 
 Primary author:
 
-* [heart_valves](https://github.com/alexkaiser/heart_valves): First-principles model generation and fluid-structure interaction (FSI) for aortic and mitral valves. Includes code that calls IBAMR for FSI and visualization. Used in publications: 
+* [heart_valves](https://github.com/alexkaiser/heart_valves): Model generation with elasticity-based design and fluid-structure interaction (FSI) for aortic and mitral valves. Includes code that calls IBAMR for FSI and visualization. Used in publications: 
 [[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j.jtcvs.2023.12.027), 
 [[Clinical Translation of Surgical Repair]](https://doi.org/10.3389/fcvm.2026.1957668), 
 [[Rare Disease Physiology of Truncus Arteriosus]](https://doi.org/10.1016/j.jtcvs.2026.04.039), 
@@ -20,7 +20,7 @@ Primary author:
 
 Contributor:
 
-* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics. Derived and implemented new delta function kernels with three continuous derivatives. Used in preprint: [[Gaussian-Like Kernels]](https://arxiv.org/abs/1505.07529v4) 
+* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics. Derived and implemented a new delta function kernel with three continuous derivatives. Used in preprint: [[Gaussian-Like Kernels]](https://arxiv.org/abs/1505.07529v4) 
 
 * [svZeroDSolver](https://github.com/SimVascular/svZeroDSolver): Lumped-parameter solver in C++ for blood flow and pressure in hemodynamic networks. Prototyped a two-hill chamber activation model and a parameter-tuning workflow, which served as drafts for features later added to the solver. 
 
@@ -42,4 +42,4 @@ Contributor:
 
 * [QD](https://www.davidhbailey.com/dhbsoftware/): Double-double and quad double precision arithmetic in C++ with overloaded operators. Handled library maintenance, documentation and user issues while at Lawrence Berkeley National Laboratory, 2009–2011; now mirrored by David H. Bailey.
 
-* MatrixFFT: Apple’s high-performance FFT library. Developed a mixed-language interface for it with the Advanced Computation Group in 2010; the library and the group appear to have since been discontinued.
+* MatrixFFT: Apple’s high-performance FFT library. Developed a mixed-language interface for it with the Advanced Computation Group in 2010.
