@@ -42,4 +42,4 @@ Contributor:
 
 * [QD](https://www.davidhbailey.com/dhbsoftware/): Double-double and quad double precision arithmetic in C++ with overloaded operators. Handled library maintenance, documentation and user issues while at Lawrence Berkeley National Laboratory, 2009–2011; now mirrored by David H. Bailey.
 
-* MatrixFFT: Apple’s high-performance FFT library. Developed a mixed-language interface for it with the Advanced Computation Group in 2010.
+* MatrixFFT: Apple’s proprietary high-performance FFT library. Developed a C/Fortran mixed-language interface as a cooperative researcher in the Advanced Computation Group in 2010.
