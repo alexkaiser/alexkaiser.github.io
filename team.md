@@ -49,7 +49,7 @@ __Camille Shantz__ is an MD student at Boston University on a research year at S
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/martinez.jpg" alt="Elena Sabdy Martinez"></div>
   <div class="team-text" markdown="1">
-__Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computational & Mathematical Engineering. She researches surgical planning for complex biventricular repair in patients with double outlet right ventricle. 
+__Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computational & Mathematical Engineering co-mentored with A. Marsden. She researches surgical planning for complex biventricular repair in patients with double outlet right ventricle. 
   </div>
 </div>
 
@@ -57,7 +57,7 @@ __Elena Sabdy Martinez__ is a PhD student at ICME, the Institute for Computation
 <div class="team-member">
   <div class="team-photo"><img src="/images/team/zhao.jpg" alt="Han Zhao"></div>
   <div class="team-text" markdown="1">
-__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford and recently moved to the University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
+__Han Zhao__ was a postdoctoral scholar in Pediatrics (Cardiology) at Stanford co-mentored with A. Marsden and recently moved to the University of Pennsylvania. He researches immersed methods for fluid-structure interaction. 
   </div>
 </div>
 

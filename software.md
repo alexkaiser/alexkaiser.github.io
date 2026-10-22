@@ -6,30 +6,42 @@ permalink: /software/
 
 See my [GitHub profile](https://github.com/alexkaiser). 
 
-Open source projects on which I am the primary author:
+#### Current Research Software
 
-* [heart_valves](https://github.com/alexkaiser/heart_valves): Model generation and fluid-structure interaction (FSI) for aortic and mitral valves. Includes code that calls IBAMR for FSI, scripts, plotting, movie generation.
+Primary author:
 
-* [mc_stretch](https://github.com/alexkaiser/mc_stretch): Fast, affine-invariant, GPU parallel MCMC.
+* [heart_valves](https://github.com/alexkaiser/heart_valves): First-principles model generation and fluid-structure interaction (FSI) for aortic and mitral valves. Includes code that calls IBAMR for FSI and visualization. Used in publications: 
+[[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j.jtcvs.2023.12.027), 
+[[Clinical Translation of Surgical Repair]](https://doi.org/10.3389/fcvm.2026.1957668), 
+[[Rare Disease Physiology of Truncus Arteriosus]](https://doi.org/10.1016/j.jtcvs.2026.04.039), 
+[[Mitral Elasticity-Based Design]](http://doi.org/10.1002/cnm.3240), 
+[[Aortic Elasticity-Based Design]](https://doi.org/10.1007/s10237-021-01516-7),
+[[Sim-Guided Design of Surgical Repair II]](https://doi.org/10.1016/j.xjon.2025.09.038), 
+[[4D MRI Comparison]](https://doi.org/10.1007/s10439-023-03266-2), 
+[[Bicuspid Flows]](https://doi.org/10.1007/s10439-022-02983-4).
 
-* [SimplifySum](https://github.com/alexkaiser/SimplifySum): Automatic simplification of symbolic sums in Mathematica.
+Contributor:
 
+* [SimVascular](https://simvascular.github.io/): Comprehensive tools for modeling and simulation of patient-specific vascular flows. Used for image segmentation and model construction; maintained a fork adding an option to disable reslice interpolation, so MRI planes display without blurring on oblique views or widely spaced slices. 
 
+* [svFSI](https://github.com/SimVascular/svFSI): Multi-physics finite element solver for patient-specific blood flow simulation, including fluid-structure interaction and cardiac electrophysiology. Helped establish the open-source svFSI repository from internal legacy code. 
 
-Open source projects on which I have contributed:
+* [svZeroDSolver](https://github.com/SimVascular/svZeroDSolver): Lumped-parameter solver in C++ for blood flow and pressure in hemodynamic networks. Prototyped a two-hill chamber activation model and a parameter-tuning workflow, which served as drafts for features later added to the solver. 
 
-* [SimVascular](https://simvascular.github.io/): Comprehensive tools for modeling and simulation of patient-specific vascular flows.
+* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics. Derived and implemented new delta function kernels with three continuous derivatives. Used in preprint: [[Gaussian-Like Kernels]](https://arxiv.org/abs/1505.07529v4) 
 
-* [svFSI](https://github.com/SimVascular/svFSI): Multi-physics finite element solver for patient-specific blood flow simulation, including fluid-structure interaction and cardiac electrophysiology.
+#### Earlier Work
 
-* [svZeroDSolver](https://github.com/SimVascular/svZeroDSolver): Lumped-parameter solver in C++ for blood flow and pressure in hemodynamic networks.
+Primary author:
 
-* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics.
+* [mc_stretch](https://github.com/alexkaiser/mc_stretch): Fast, affine-invariant, GPU parallel MCMC. Developed in thesis: [[MS Thesis]](/pdfs/kaiser_computational_exp_mcmc_ms_thesis_2013.pdf)
 
-* [ARPREC](https://www.davidhbailey.com/dhbsoftware/): Arbitrary precision arithmetic in C++ with overloaded operators. Previously run by Lawrence Berkeley National Laboratory, now mirrored by David H. Bailey.
+* [SimplifySum](https://github.com/alexkaiser/SimplifySum): Automatic simplification of symbolic sums in Mathematica, over 1000x faster than built-in Mathematica algorithms on certain problems. Developed for and used in publication: [[Auto-Simplification]](https://doi.org/10.1016/j.jsc.2013.09.001)
 
-* [QD](https://www.davidhbailey.com/dhbsoftware/): Double-double and quad double precision arithmetic in C++ with overloaded operators. Previously run by Lawrence Berkeley National Laboratory, now mirrored by David H. Bailey.
+Contributor:
 
-* MatrixFFT: Apple’s FFT library. Both library development and the Advanced Computation Group who developed it appear to be discontinued since I worked with them in 2010.
+* [ARPREC](https://www.davidhbailey.com/dhbsoftware/): Arbitrary precision arithmetic in C++ with overloaded operators. Handled library maintenance, documentation and user issues while at Lawrence Berkeley National Laboratory, 2009–2011; now mirrored by David H. Bailey.
 
+* [QD](https://www.davidhbailey.com/dhbsoftware/): Double-double and quad double precision arithmetic in C++ with overloaded operators. Handled library maintenance, documentation and user issues while at Lawrence Berkeley National Laboratory, 2009–2011; now mirrored by David H. Bailey.
 
+* MatrixFFT: Apple’s high-performance FFT library. Developed a mixed-language interface for it with the Advanced Computation Group in 2010; the library and the group appear to have since been discontinued.
