@@ -4,8 +4,6 @@ title: Software
 permalink: /software/
 ---
 
-See my [GitHub profile](https://github.com/alexkaiser). 
-
 #### Current Research Software
 
 Primary author:
@@ -14,7 +12,7 @@ Primary author:
 [[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j.jtcvs.2023.12.027), 
 [[Clinical Translation of Surgical Repair]](https://doi.org/10.3389/fcvm.2026.1957668), 
 [[Rare Disease Physiology of Truncus Arteriosus]](https://doi.org/10.1016/j.jtcvs.2026.04.039), 
-[[Mitral Elasticity-Based Design]](http://doi.org/10.1002/cnm.3240), 
+[[Mitral Elasticity-Based Design]](https://doi.org/10.1002/cnm.3240), 
 [[Aortic Elasticity-Based Design]](https://doi.org/10.1007/s10237-021-01516-7),
 [[Sim-Guided Design of Surgical Repair II]](https://doi.org/10.1016/j.xjon.2025.09.038), 
 [[4D MRI Comparison]](https://doi.org/10.1007/s10439-023-03266-2), 
@@ -22,13 +20,13 @@ Primary author:
 
 Contributor:
 
-* [SimVascular](https://simvascular.github.io/): Comprehensive tools for modeling and simulation of patient-specific vascular flows. Used for image segmentation and model construction; maintained a fork adding an option to disable reslice interpolation, so MRI planes display without blurring on oblique views or widely spaced slices. 
-
-* [svFSI](https://github.com/SimVascular/svFSI): Multi-physics finite element solver for patient-specific blood flow simulation, including fluid-structure interaction and cardiac electrophysiology. Helped establish the open-source svFSI repository from internal legacy code. 
+* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics. Derived and implemented new delta function kernels with three continuous derivatives. Used in preprint: [[Gaussian-Like Kernels]](https://arxiv.org/abs/1505.07529v4) 
 
 * [svZeroDSolver](https://github.com/SimVascular/svZeroDSolver): Lumped-parameter solver in C++ for blood flow and pressure in hemodynamic networks. Prototyped a two-hill chamber activation model and a parameter-tuning workflow, which served as drafts for features later added to the solver. 
 
-* [IBAMR](https://ibamr.github.io/): Immersed boundary adaptive mesh refinement, fluid-structure interaction code suitable for simulating heart valve mechanics. Derived and implemented new delta function kernels with three continuous derivatives. Used in preprint: [[Gaussian-Like Kernels]](https://arxiv.org/abs/1505.07529v4) 
+* [svFSI](https://github.com/SimVascular/svFSI): Multi-physics finite element solver for patient-specific blood flow simulation, including fluid-structure interaction and cardiac electrophysiology. Helped establish the open-source svFSI repository from internal legacy code. 
+
+* [SimVascular](https://simvascular.github.io/): Comprehensive tools for modeling and simulation of patient-specific vascular flows. Used for image segmentation and model construction; maintained a fork adding an option to disable reslice interpolation, so MRI planes display without blurring on oblique views or widely spaced slices. 
 
 #### Earlier Work
 

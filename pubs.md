@@ -13,7 +13,7 @@ _† denotes trainee mentored by ADK_
 
 1. __Kaiser AD__, Haidar MA, Choi PS, Sharir A, Marsden AL, Ma MR. _Simulation-Based Design of Bicuspidization of the Aortic Valve._ The Journal of Thoracic and Cardiovascular Surgery, 2024. [[arxiv]](https://arxiv.org/abs/2309.14239) [[doi]](https://doi.org/10.1016/j.jtcvs.2023.12.027) [[movies]](https://www.youtube.com/watch?v=G-mf0jRN0kk&list=PLVE1-rUYcsaLWMi2I0PFCpZWIVZOQ74lF&pp=iAQB)
 
-1. __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](http://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
+1. __Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](https://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
 
 
 #### Additional Journal Publications

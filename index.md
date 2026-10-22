@@ -56,7 +56,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 </p>
 
-__Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](http://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
+__Kaiser AD__, McQueen DM, Peskin CS. _Modeling the Mitral Valve._ International Journal of Numerical Methods in Biomedical Engineering, 2019. [[arxiv]](https://arxiv.org/abs/1902.00018) [[doi]](https://doi.org/10.1002/cnm.3240) [[movies]](https://www.youtube.com/watch?v=GjXboGhaeb4&list=PLVE1-rUYcsaJXpy5_xfRvsNxcj3Rb_azW)
 
 
 
