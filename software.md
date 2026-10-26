@@ -16,7 +16,8 @@ Primary author:
 [[Aortic Elasticity-Based Design]](https://doi.org/10.1007/s10237-021-01516-7),
 [[Sim-Guided Design of Surgical Repair II]](https://doi.org/10.1016/j.xjon.2025.09.038), 
 [[4D MRI Comparison]](https://doi.org/10.1007/s10439-023-03266-2), 
-[[Bicuspid Flows]](https://doi.org/10.1007/s10439-022-02983-4).
+[[Bicuspid Flows]](https://doi.org/10.1007/s10439-022-02983-4), 
+[[Zebrafish]](https://doi.org/10.1016/j.jbiomech.2025.112794).
 
 Contributor:
 
