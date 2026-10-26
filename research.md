@@ -47,7 +47,7 @@ Publications: [[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j
 
 I use modeling and simulation tools to study the pathophysiology of congenital heart disease. One recent [study](https://doi.org/10.1016/j.jtcvs.2026.04.039) ([movie](https://youtu.be/po0WBD9wt0U)) led by postdoc [Karoline Bornemann](/team/) focused on truncus arteriosus, a rare and severe congenital heart disease. We found that, contrary to conventional wisdom, valve performance improved after repair without direct intervention to the leaflets, a trend that was confirmed on clinical imaging. 
 
-Publications: [[Rare Disease Physiology of Truncus Arteriosus]](https://doi.org/10.1016/j.jtcvs.2026.04.039), [[Bicuspid Flows]](https://doi.org/10.1007/s10439-022-02983-4).
+Publications: [[Rare Disease Physiology of Truncus Arteriosus]](https://doi.org/10.1016/j.jtcvs.2026.04.039), [[Bicuspid Flows]](https://doi.org/10.1007/s10439-022-02983-4), [[Zebrafish]](https://doi.org/10.1016/j.jbiomech.2025.112794).
 
 
 
