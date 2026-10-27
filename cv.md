@@ -8,7 +8,8 @@ permalink: /cv/
   .post-content li > ul { margin-bottom: 10px; }
 </style>
 
-[Download full CV (PDF)](/kaiser_cv.pdf)
+[Download full CV (PDF)](/kaiser_alexander_cv.pdf)  
+[Download resume (PDF)](/kaiser_alexander_resume.pdf)
 
 #### Education
 
