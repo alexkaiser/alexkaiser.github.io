@@ -31,7 +31,7 @@ Surgical procedures in children, however, are frequently based on an empirical, 
 I create engineering design tools to optimize procedures and improve patient outcomes. 
 Surgeons at Stanford now [perform repairs](https://doi.org/10.3389/fcvm.2026.1957668) using simulation-predicted leaflet geometry, with excellent preliminary results. 
 
-Publications: [[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j.jtcvs.2023.12.027), [[Sim-Guided Design of Surgical Repair II]](https://doi.org/10.1016/j.xjon.2025.09.038), [[Clinical Translation of Surgical Repair]](https://doi.org/10.3389/fcvm.2026.1957668).
+Publications: [[Sim-Guided Design of Surgical Repair]](https://doi.org/10.1016/j.jtcvs.2023.12.027), [[Ex Vivo Validation]](https://doi.org/10.1016/j.xjon.2024.09.008), [[Sim-Guided Design of Surgical Repair II]](https://doi.org/10.1016/j.xjon.2025.09.038), [[Clinical Translation of Surgical Repair]](https://doi.org/10.3389/fcvm.2026.1957668).
 
 &nbsp;
 
